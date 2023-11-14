@@ -49,10 +49,7 @@ export default function Page() {
             width={560}
             height={400}
             className='block md:hidden'
-
           ></Image>
-
-
         </div>
       </div>
     </main>
